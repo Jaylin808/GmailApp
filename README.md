@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+![MyGif ](./Gmail.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 
