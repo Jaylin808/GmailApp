@@ -18,10 +18,8 @@ class EmailFetcher {
             for (i in 10..14) {
                 val email = Email(senders[i], title, summary)
                 newEmails.add(email)
-
-                return newEmails
             }
-
+            return newEmails
         }
     }
 }
